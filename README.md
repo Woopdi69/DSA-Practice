@@ -11,4 +11,16 @@ Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
