@@ -8,6 +8,7 @@ Practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +43,12 @@ Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
