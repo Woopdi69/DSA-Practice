@@ -15,6 +15,7 @@ Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
 ## Array
@@ -107,4 +108,12 @@ Practice
 |  |
 | ------- |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Woopdi69/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
