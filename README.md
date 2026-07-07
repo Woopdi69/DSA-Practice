@@ -103,4 +103,8 @@ Practice
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Woopdi69/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
