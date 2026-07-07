@@ -32,6 +32,7 @@ Practice
 | [0485-max-consecutive-ones](https://github.com/Woopdi69/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1222-remove-covered-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/1222-remove-covered-intervals) |
 ## Divide and Conquer
@@ -154,4 +155,12 @@ Practice
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
