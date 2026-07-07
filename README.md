@@ -102,6 +102,7 @@ Practice
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Practice
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -133,4 +135,20 @@ Practice
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
