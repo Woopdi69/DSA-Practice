@@ -26,6 +26,7 @@ Practice
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ Practice
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -162,5 +164,6 @@ Practice
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
