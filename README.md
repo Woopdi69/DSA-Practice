@@ -27,6 +27,7 @@ Practice
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -73,6 +74,7 @@ Practice
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
