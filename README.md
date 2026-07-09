@@ -40,6 +40,7 @@ Practice
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1222-remove-covered-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/1222-remove-covered-intervals) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Practice
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,4 +181,5 @@ Practice
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
