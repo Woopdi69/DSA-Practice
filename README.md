@@ -196,6 +196,7 @@ Practice
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
+| [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -213,12 +214,14 @@ Practice
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Practice
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Woopdi69/DSA-Practice/tree/master/1039-find-the-town-judge) |
+| [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
