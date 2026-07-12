@@ -199,6 +199,7 @@ Practice
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -220,6 +221,7 @@ Practice
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
@@ -235,10 +237,15 @@ Practice
 | [0207-course-schedule](https://github.com/Woopdi69/DSA-Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/Woopdi69/DSA-Practice/tree/master/1039-find-the-town-judge) |
 | [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Woopdi69/DSA-Practice/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
