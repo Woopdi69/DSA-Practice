@@ -47,6 +47,7 @@ Practice
 | [1039-find-the-town-judge](https://github.com/Woopdi69/DSA-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1222-remove-covered-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -73,6 +74,7 @@ Practice
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1039-find-the-town-judge](https://github.com/Woopdi69/DSA-Practice/tree/master/1039-find-the-town-judge) |
+| [1256-rank-transform-of-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Practice
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1222-remove-covered-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
