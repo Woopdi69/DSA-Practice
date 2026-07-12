@@ -43,6 +43,7 @@ Practice
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0792-binary-search) |
+| [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Woopdi69/DSA-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -198,6 +199,7 @@ Practice
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
@@ -207,6 +209,7 @@ Practice
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
+| [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Depth-First Search
@@ -217,6 +220,7 @@ Practice
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
+| [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [2793-count-the-number-of-complete-components](https://github.com/Woopdi69/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
