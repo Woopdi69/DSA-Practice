@@ -252,4 +252,8 @@ Practice
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Woopdi69/DSA-Practice/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
