@@ -31,6 +31,7 @@ Practice
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -70,6 +71,7 @@ Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -234,6 +236,7 @@ Practice
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Woopdi69/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Woopdi69/DSA-Practice/tree/master/0801-is-graph-bipartite) |
