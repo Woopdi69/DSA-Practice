@@ -27,6 +27,7 @@ Practice
 | [0014-longest-common-prefix](https://github.com/Woopdi69/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
@@ -259,6 +260,7 @@ Practice
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
 | [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Enumeration
 |  |
