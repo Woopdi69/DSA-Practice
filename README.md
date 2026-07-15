@@ -71,6 +71,7 @@ Practice
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
+| [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Woopdi69/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
@@ -277,4 +279,12 @@ Practice
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
