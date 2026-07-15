@@ -46,6 +46,7 @@ Practice
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Woopdi69/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0792-binary-search) |
 | [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
@@ -106,6 +107,7 @@ Practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Woopdi69/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
