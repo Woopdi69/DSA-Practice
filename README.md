@@ -164,6 +164,7 @@ Practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Woopdi69/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
@@ -266,4 +267,8 @@ Practice
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Woopdi69/DSA-Practice/tree/master/1212-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
