@@ -40,6 +40,7 @@ Practice
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Woopdi69/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@ Practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
 ## Greedy
