@@ -25,6 +25,7 @@ Practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Woopdi69/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
@@ -116,6 +117,7 @@ Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
