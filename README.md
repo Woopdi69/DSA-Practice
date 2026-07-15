@@ -11,6 +11,7 @@ Practice
 | [0014-longest-common-prefix](https://github.com/Woopdi69/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -134,6 +135,7 @@ Practice
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
@@ -176,6 +178,7 @@ Practice
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Woopdi69/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
