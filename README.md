@@ -36,6 +36,7 @@ Practice
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
@@ -123,6 +124,7 @@ Practice
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -144,6 +146,7 @@ Practice
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
