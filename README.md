@@ -31,6 +31,7 @@ Practice
 | [0033-search-in-rotated-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
@@ -179,6 +180,7 @@ Practice
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
@@ -234,6 +236,7 @@ Practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
