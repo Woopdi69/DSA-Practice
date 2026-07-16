@@ -46,6 +46,7 @@ Practice
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Woopdi69/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ Practice
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -126,6 +128,7 @@ Practice
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -303,4 +306,8 @@ Practice
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
