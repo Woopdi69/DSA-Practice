@@ -25,6 +25,7 @@ Practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Woopdi69/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
@@ -85,6 +86,7 @@ Practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
