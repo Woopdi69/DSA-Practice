@@ -192,6 +192,7 @@ Practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Woopdi69/DSA-Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
@@ -306,6 +307,7 @@ Practice
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Woopdi69/DSA-Practice/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
