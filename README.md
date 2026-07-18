@@ -224,6 +224,7 @@ Practice
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -236,6 +237,7 @@ Practice
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -245,6 +247,7 @@ Practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Woopdi69/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0210-course-schedule-ii) |
@@ -271,6 +274,7 @@ Practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Woopdi69/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0210-course-schedule-ii) |
@@ -330,4 +334,8 @@ Practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
