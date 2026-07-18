@@ -40,6 +40,7 @@ Practice
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Woopdi69/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ Practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -221,16 +223,19 @@ Practice
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
