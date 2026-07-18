@@ -67,6 +67,7 @@ Practice
 | [1256-rank-transform-of-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Woopdi69/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Practice
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Woopdi69/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Woopdi69/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
@@ -305,6 +307,7 @@ Practice
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Woopdi69/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Woopdi69/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
