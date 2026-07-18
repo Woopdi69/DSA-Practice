@@ -34,6 +34,7 @@ Practice
 | [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -150,6 +151,7 @@ Practice
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
 ## Sorting
@@ -253,6 +255,7 @@ Practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
