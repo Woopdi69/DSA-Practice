@@ -17,39 +17,27 @@ public:
 */
 
 class Solution {
-private:
-    vector<vector<Node* >> lvl;
-    void level_order(Node* root, int l){
-        if(root == nullptr){
-            return;
-        }
-
-        if(l == lvl.size()){
-            lvl.push_back(vector<Node* >());
-        }
-
-        lvl[l].push_back(root);
-        level_order(root->left, l+1);
-        level_order(root->right, l+1);
-    }
-
 public:
     Node* connect(Node* root) {
-        if(root == nullptr) return nullptr;
-        if(root->left == nullptr && root->right == nullptr) return root;
+        if(root == nullptr) return root;
+        queue<Node*> q;
+        q.push(root);
 
-        level_order(root, 0);
-        for(auto v : lvl){
-            for(int i = 0; i < v.size(); i++){
-                if(i == v.size()-1){
-                    v[i]->next = nullptr;
-                    break;
+        while(!q.empty()){
+            int s = q.size();
+            for(int i = 0; i < s; i++){
+                Node* a = q.front();
+                q.pop();
+
+                if(i < s-1){
+                    a->next = q.front();
                 }
-
-                v[i]->next = v[i+1];
+            
+                if(a->left != nullptr) q.push(a->left);
+                if(a->right != nullptr) q.push(a->right);
             }
         }
-        
+
         return root;
     }
 };
