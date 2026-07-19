@@ -145,6 +145,7 @@ Practice
 | [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [0908-middle-of-the-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -348,4 +349,5 @@ Practice
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
