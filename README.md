@@ -16,6 +16,7 @@ Practice
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Woopdi69/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Practice
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -149,11 +151,13 @@ Practice
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
