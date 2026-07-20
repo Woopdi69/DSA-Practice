@@ -71,6 +71,7 @@ Practice
 | [1046-max-consecutive-ones-iii](https://github.com/Woopdi69/DSA-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1222-remove-covered-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/Woopdi69/DSA-Practice/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Woopdi69/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Woopdi69/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -165,6 +166,7 @@ Practice
 | [0054-spiral-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
+| [1386-shift-2d-grid](https://github.com/Woopdi69/DSA-Practice/tree/master/1386-shift-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Practice
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/Woopdi69/DSA-Practice/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Woopdi69/DSA-Practice/tree/master/1036-rotting-oranges) |
+| [1386-shift-2d-grid](https://github.com/Woopdi69/DSA-Practice/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
