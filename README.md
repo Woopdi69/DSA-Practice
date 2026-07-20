@@ -361,5 +361,6 @@ Practice
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
