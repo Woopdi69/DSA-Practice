@@ -139,6 +139,7 @@ Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
@@ -353,6 +354,7 @@ Practice
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
