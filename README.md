@@ -41,6 +41,7 @@ Practice
 | [0054-spiral-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Woopdi69/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Woopdi69/DSA-Practice/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Woopdi69/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -211,6 +212,7 @@ Practice
 | ------- |
 | [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Woopdi69/DSA-Practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Woopdi69/DSA-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Woopdi69/DSA-Practice/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
