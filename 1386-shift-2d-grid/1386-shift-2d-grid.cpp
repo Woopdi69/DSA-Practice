@@ -6,20 +6,16 @@ public:
         if(k == 0) return grid;
 
         vector<vector<int>> ans(n, vector<int>(m, 0));
-        while(k--){
-            int temp = grid[n-1][m-1];
-            int prev = 0;
-            for(int i = 0; i < n; i++){
-                for(int j = 0; j < m-1; j++){
-                    ans[i][j+1] = grid[i][j];
-                }
-                ans[i][0] = prev;
-                prev = grid[i][m-1];
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                int old_1d = i * m + j;
+                int new_1d = (old_1d + k) % (n*m);
+                
+                int new_r = new_1d / m;
+                int new_c = new_1d % m;
+                
+                ans[new_r][new_c] = grid[i][j];
             }
-
-            ans[0][0] = temp;
-
-            grid = ans;
         }
 
         return ans;
