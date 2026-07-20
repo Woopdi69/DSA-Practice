@@ -22,6 +22,7 @@ Practice
 | ------- |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Woopdi69/DSA-Practice/tree/master/0874-backspace-string-compare) |
@@ -144,6 +145,7 @@ Practice
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -344,6 +346,7 @@ Practice
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Woopdi69/DSA-Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -361,6 +364,7 @@ Practice
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
