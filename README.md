@@ -102,6 +102,7 @@ Practice
 | [0001-two-sum](https://github.com/Woopdi69/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Woopdi69/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Woopdi69/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@ Practice
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Woopdi69/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -368,6 +370,7 @@ Practice
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/Woopdi69/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
