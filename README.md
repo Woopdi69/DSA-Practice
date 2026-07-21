@@ -21,6 +21,7 @@ Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Woopdi69/DSA-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
@@ -229,6 +230,7 @@ Practice
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Woopdi69/DSA-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
