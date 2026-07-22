@@ -10,6 +10,7 @@ Practice
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Woopdi69/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Woopdi69/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Woopdi69/DSA-Practice/tree/master/0415-add-strings) |
@@ -112,6 +113,7 @@ Practice
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Woopdi69/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -200,6 +202,7 @@ Practice
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Woopdi69/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Woopdi69/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Woopdi69/DSA-Practice/tree/master/0455-assign-cookies) |
