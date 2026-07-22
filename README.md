@@ -21,6 +21,7 @@ Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Woopdi69/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Woopdi69/DSA-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -38,6 +39,7 @@ Practice
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Woopdi69/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -93,6 +95,7 @@ Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Woopdi69/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Woopdi69/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
@@ -149,6 +152,7 @@ Practice
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Woopdi69/DSA-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Woopdi69/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -170,6 +174,7 @@ Practice
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Woopdi69/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Woopdi69/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
