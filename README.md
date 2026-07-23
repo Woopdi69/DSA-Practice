@@ -23,6 +23,7 @@ Practice
 | ------- |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Woopdi69/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Woopdi69/DSA-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Woopdi69/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -162,6 +163,7 @@ Practice
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Woopdi69/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Woopdi69/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Woopdi69/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -375,6 +377,7 @@ Practice
 | [0002-add-two-numbers](https://github.com/Woopdi69/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Woopdi69/DSA-Practice/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Woopdi69/DSA-Practice/tree/master/1013-fibonacci-number) |
@@ -397,6 +400,7 @@ Practice
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Woopdi69/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Woopdi69/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
