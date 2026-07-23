@@ -87,6 +87,7 @@ Practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Woopdi69/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Woopdi69/DSA-Practice/tree/master/0169-majority-element) |
@@ -213,6 +214,7 @@ Practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Woopdi69/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Woopdi69/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -390,6 +392,7 @@ Practice
 | [0002-add-two-numbers](https://github.com/Woopdi69/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Woopdi69/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -398,4 +401,8 @@ Practice
 | [0234-palindrome-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Woopdi69/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Woopdi69/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
