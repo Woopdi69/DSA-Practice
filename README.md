@@ -10,6 +10,7 @@ Practice
 | [0005-longest-palindromic-substring](https://github.com/Woopdi69/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Woopdi69/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Woopdi69/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Woopdi69/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Woopdi69/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Woopdi69/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -51,6 +52,7 @@ Practice
 | [0066-plus-one](https://github.com/Woopdi69/DSA-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Woopdi69/DSA-Practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Woopdi69/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Woopdi69/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Woopdi69/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,6 +316,7 @@ Practice
 | [0048-rotate-image](https://github.com/Woopdi69/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Woopdi69/DSA-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Woopdi69/DSA-Practice/tree/master/0733-flood-fill) |
@@ -324,6 +327,7 @@ Practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Woopdi69/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Woopdi69/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Woopdi69/DSA-Practice/tree/master/0207-course-schedule) |
@@ -361,6 +365,7 @@ Practice
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Woopdi69/DSA-Practice/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Woopdi69/DSA-Practice/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/Woopdi69/DSA-Practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Enumeration
 |  |
